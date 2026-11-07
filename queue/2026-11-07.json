@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-07",
+  "tag": "videos-2026-11-07",
+  "posts": [
+    {
+      "id": "erde-stoppt",
+      "time": "12:30",
+      "file": "2026-11-07-1-erde-stoppt.mp4",
+      "url": "https://github.com/mrdralp/tiktok-bot/releases/download/videos-2026-11-07/2026-11-07-1-erde-stoppt.mp4",
+      "duration": 39.3,
+      "title": "Was passiert, wenn die Erde aufhört sich zu drehen?",
+      "caption": "Was wäre, wenn die Erde einfach stehen bleibt? 🌍 #waswärewenn #wissen #simulation #erde #fyp #lernenmittiktok",
+      "scheduled": false
+    },
+    {
+      "id": "mond-weg",
+      "time": "19:00",
+      "file": "2026-11-07-2-mond-weg.mp4",
+      "url": "https://github.com/mrdralp/tiktok-bot/releases/download/videos-2026-11-07/2026-11-07-2-mond-weg.mp4",
+      "duration": 36.9,
+      "title": "Was passiert, wenn der Mond verschwindet?",
+      "caption": "Ohne Mond wäre alles anders 🌙 #waswärewenn #mond #weltraum #wissen #fyp #simulation",
+      "scheduled": false
+    }
+  ]
+}
