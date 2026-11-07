@@ -121,7 +121,9 @@ def fetch_image(prompt, path, seed, fake=False):
                 raise ValueError("Bild zu klein")
             with open(path, "wb") as f:
                 f.write(data)
-            Image.open(path).convert("RGB").resize((W, H)).save(path, quality=92)
+            im = Image.open(path).convert("RGB").resize((W, H))
+            # Wasserzeichen unten links wegschneiden (Seitenverhältnis bleibt)
+            im.crop((34, 0, W - 0, H - 60)).resize((W, H)).save(path, quality=92)
             return
         except Exception as e:  # noqa: BLE001
             print(f"Bild-Fehler ({attempt + 1}/4):", e)
