@@ -1,0 +1,6 @@
+out/
+work/
+bot/work_test/
+bot/*.mp4
+bot/*.jpg
+__pycache__/

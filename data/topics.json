@@ -1,0 +1,422 @@
+[
+  {
+    "id": "erde-stoppt",
+    "title": "Was passiert, wenn die Erde aufhört sich zu drehen?",
+    "scenes": [
+      {"text": "Was passiert, wenn die Erde plötzlich aufhört, sich zu drehen?", "prompt": "planet Earth from space suddenly frozen in rotation, dramatic"},
+      {"text": "Am Äquator rasen wir mit über 1600 Kilometern pro Stunde durchs All. Stoppt die Erde, fliegt alles einfach weiter.", "prompt": "people, cars and buildings flying horizontally through the air at extreme speed, city destroyed"},
+      {"text": "Ozeane würden als gigantische Tsunamis über die Kontinente rollen und ganze Länder überfluten.", "prompt": "gigantic tsunami wave crashing over a continent, kilometers high"},
+      {"text": "Und danach? Ein Tag würde ein ganzes Jahr dauern. Sechs Monate Sonne, sechs Monate Dunkelheit.", "prompt": "half of Earth scorched by sun, other half frozen in darkness, split view"},
+      {"text": "Ohne Drehung bricht auch das Magnetfeld zusammen. Die Sonnenstrahlung trifft uns ungeschützt.", "prompt": "solar radiation storm hitting unprotected Earth, glowing particles"},
+      {"text": "Zum Glück ist das praktisch unmöglich. Welches Szenario soll ich als Nächstes simulieren?", "prompt": "peaceful rotating Earth at sunrise seen from orbit"}
+    ],
+    "caption": "Was wäre, wenn die Erde einfach stehen bleibt? 🌍",
+    "hashtags": ["waswärewenn", "wissen", "simulation", "erde", "fyp", "lernenmittiktok"]
+  },
+  {
+    "id": "mond-weg",
+    "title": "Was passiert, wenn der Mond verschwindet?",
+    "scenes": [
+      {"text": "Was passiert, wenn der Mond heute Nacht einfach verschwindet?", "prompt": "night sky with empty space where the moon disappeared, glowing ring remnant"},
+      {"text": "Zuerst wird es nachts viel dunkler. Viele Tiere, die sich am Mondlicht orientieren, verlieren die Orientierung.", "prompt": "pitch dark forest at night, confused owls and animals"},
+      {"text": "Die Gezeiten werden um etwa zwei Drittel schwächer. Ganze Küstenökosysteme geraten aus dem Gleichgewicht.", "prompt": "dried coastline tide pools with stranded sea creatures"},
+      {"text": "Doch das Schlimmste kommt langsam: Der Mond stabilisiert die Neigung unserer Erdachse.", "prompt": "Earth tilting wildly on its axis, visualized axis line in space"},
+      {"text": "Ohne ihn könnte die Achse über Jahrtausende stark schwanken. Eiszeiten und Hitzeperioden würden sich abwechseln.", "prompt": "Earth half covered in ice and half in desert, extreme climate"},
+      {"text": "Der Mond ist also viel wichtiger, als du denkst. Wusstest du das?", "prompt": "beautiful full moon rising over calm ocean"}
+    ],
+    "caption": "Ohne Mond wäre alles anders 🌙",
+    "hashtags": ["waswärewenn", "mond", "weltraum", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "sonne-aus",
+    "title": "Was passiert, wenn die Sonne ausgeht?",
+    "scenes": [
+      {"text": "Was passiert, wenn die Sonne plötzlich ausgeht?", "prompt": "the sun going dark in space, dying star, black sphere with faint corona"},
+      {"text": "Die ersten acht Minuten merken wir nichts. So lange braucht das Licht von der Sonne zu uns.", "prompt": "light beam travelling from sun to Earth across space, timer concept"},
+      {"text": "Dann wird es schlagartig dunkel. Nur die Sterne leuchten noch am Himmel.", "prompt": "city at midday suddenly in total darkness under starry sky"},
+      {"text": "Nach einer Woche fällt die Temperatur unter minus 17 Grad. Pflanzen sterben ohne Licht ab.", "prompt": "frozen city covered in frost and ice, dead plants"},
+      {"text": "Nach einem Jahr sind es unter minus 70 Grad. Die Ozeane frieren von oben zu.", "prompt": "frozen ocean surface under dark sky, eerie"},
+      {"text": "Überleben könnten nur Menschen an Vulkanen oder tief unter der Erde. Würdest du es schaffen?", "prompt": "underground bunker city lit by geothermal glow"}
+    ],
+    "caption": "8 Minuten bis zur Dunkelheit ☀️➡️🌑",
+    "hashtags": ["waswärewenn", "sonne", "weltraum", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "schwarzes-loch",
+    "title": "Was passiert, wenn du in ein Schwarzes Loch fällst?",
+    "scenes": [
+      {"text": "Was passiert mit dir, wenn du in ein Schwarzes Loch fällst?", "prompt": "astronaut falling toward a giant black hole with glowing accretion disk"},
+      {"text": "Je näher du kommst, desto stärker zieht die Schwerkraft an deinen Füßen als an deinem Kopf.", "prompt": "astronaut being stretched by gravity near black hole, tidal force"},
+      {"text": "Bei kleinen Schwarzen Löchern wirst du dabei wie Spaghetti in die Länge gezogen. Das heißt wirklich Spaghettisierung.", "prompt": "human body stretched like spaghetti into a black hole, sci-fi"},
+      {"text": "Für Beobachter von außen passiert etwas Seltsames: Du wirst immer langsamer und bleibst scheinbar am Rand stehen.", "prompt": "frozen astronaut image at the event horizon, red shifted glow"},
+      {"text": "Du selbst merkst davon nichts. Für dich vergeht die Zeit ganz normal, bis zum Ende.", "prompt": "view from inside black hole, warped light and stars"},
+      {"text": "Was danach kommt, weiß niemand. Was glaubst du, ist im Inneren?", "prompt": "mysterious singularity, cosmic light swirl, unknown"}
+    ],
+    "caption": "Spaghettisierung ist echt 🕳️",
+    "hashtags": ["waswärewenn", "schwarzesloch", "weltraum", "physik", "fyp", "simulation"]
+  },
+  {
+    "id": "alle-springen",
+    "title": "Was passiert, wenn alle Menschen gleichzeitig springen?",
+    "scenes": [
+      {"text": "Was passiert, wenn alle acht Milliarden Menschen gleichzeitig springen?", "prompt": "millions of people jumping at the same time in a huge field"},
+      {"text": "Zuerst müssten wir uns alle an einem Ort versammeln. Wir würden auf eine Fläche so groß wie Berlin und Hamburg zusammen passen.", "prompt": "aerial view of a city completely filled with crowds of people"},
+      {"text": "Dann springen alle. Die Erde wird um weniger als die Breite eines Atoms bewegt.", "prompt": "Earth from space with tiny glowing spot, scientific visualization"},
+      {"text": "Beim Landen entsteht ein Beben, ungefähr so stark wie ein kleines Erdbeben. Man hört ein lautes Donnern.", "prompt": "shockwave rippling through the ground from crowd landing"},
+      {"text": "Das eigentliche Problem kommt danach: Wie kommen acht Milliarden Menschen wieder nach Hause?", "prompt": "massive traffic jam chaos, endless crowds on roads"},
+      {"text": "Die Logistik wäre die echte Katastrophe. Würdest du mitspringen?", "prompt": "person mid jump smiling in the middle of a huge crowd"}
+    ],
+    "caption": "8 Milliarden Sprünge 🦘",
+    "hashtags": ["waswärewenn", "wissen", "simulation", "fyp", "lernenmittiktok", "physik"]
+  },
+  {
+    "id": "sauerstoff-weg",
+    "title": "Was passiert, wenn die Erde 5 Sekunden keinen Sauerstoff hat?",
+    "scenes": [
+      {"text": "Was passiert, wenn die Erde für fünf Sekunden keinen Sauerstoff hat?", "prompt": "Earth with atmosphere disappearing for a moment, dramatic"},
+      {"text": "Jeder, der draußen in der Sonne ist, bekäme sofort einen Sonnenbrand. Denn die Ozonschicht besteht aus Sauerstoff.", "prompt": "people outdoors under harsh blinding sunlight, UV glow"},
+      {"text": "Einer bekannten Theorie nach würde sogar Beton zerbröseln, und Gebäude stürzen ein.", "prompt": "concrete buildings crumbling into dust in a city"},
+      {"text": "Der Himmel wird schwarz, weil keine Luftmoleküle mehr das Licht streuen.", "prompt": "black sky during daytime over a city, sun visible"},
+      {"text": "Und dein Innenohr würde wegen des Druckabfalls platzen. Der Luftdruck sinkt um etwa ein Fünftel.", "prompt": "people holding their ears in pain, pressure wave"},
+      {"text": "Nur fünf Sekunden, und die Welt wäre nicht mehr dieselbe. Krass, oder?", "prompt": "ruined city after disaster, sunrise, eerie calm"}
+    ],
+    "caption": "5 Sekunden ohne Sauerstoff 😮",
+    "hashtags": ["waswärewenn", "sauerstoff", "wissen", "fyp", "simulation", "lernenmittiktok"]
+  },
+  {
+    "id": "internet-aus",
+    "title": "Was passiert, wenn das Internet weltweit ausfällt?",
+    "scenes": [
+      {"text": "Was passiert, wenn das Internet auf der ganzen Welt ausfällt?", "prompt": "world map with all network lights going dark, global blackout"},
+      {"text": "In der ersten Stunde: Keine Nachrichten, keine Kartenzahlung, kein Online-Banking. Supermärkte nehmen nur noch Bargeld.", "prompt": "people queuing at ATM, card terminal error screens"},
+      {"text": "Flughäfen, Logistik und Lieferketten geraten ins Stocken. Lkw wissen nicht mehr, wohin.", "prompt": "airport departure boards showing errors, stranded passengers"},
+      {"text": "Nach ein paar Tagen werden in Läden die Regale leer, weil Bestellungen nicht mehr ankommen.", "prompt": "empty supermarket shelves, dim lighting"},
+      {"text": "Menschen gehen wieder raus, reden mit Nachbarn und benutzen Papierkarten.", "prompt": "neighbors talking on a street, people reading paper maps"},
+      {"text": "Wie lange würdest du ohne Internet durchhalten? Schreib es in die Kommentare.", "prompt": "person looking at phone with no signal icon, sunset"}
+    ],
+    "caption": "Kein WLAN. Für immer. 📵",
+    "hashtags": ["waswärewenn", "internet", "simulation", "fyp", "wissen", "technik"]
+  },
+  {
+    "id": "yellowstone",
+    "title": "Was passiert, wenn der Yellowstone-Supervulkan ausbricht?",
+    "scenes": [
+      {"text": "Was passiert, wenn der Supervulkan unter dem Yellowstone-Park ausbricht?", "prompt": "supervolcano eruption in Yellowstone, massive ash column"},
+      {"text": "Die Explosion wäre tausendmal stärker als ein normaler Vulkanausbruch. Hunderte Kilometer um den Park wären verwüstet.", "prompt": "pyroclastic flow destroying forests and landscape"},
+      {"text": "Eine Aschewolke bedeckt große Teile der USA. Dächer brechen unter dem Gewicht ein.", "prompt": "american town covered in thick grey volcanic ash"},
+      {"text": "Die Asche verteilt sich in der Atmosphäre und blockiert das Sonnenlicht weltweit.", "prompt": "Earth from space covered with grey haze"},
+      {"text": "Es folgt ein vulkanischer Winter. Die Temperaturen sinken über Jahre, Ernten fallen aus.", "prompt": "snow in summer over failed crops, gloomy sky"},
+      {"text": "Zum Glück ist ein Ausbruch in naher Zukunft sehr unwahrscheinlich. Hättest du Angst davor?", "prompt": "calm Yellowstone hot spring with colorful water"}
+    ],
+    "caption": "Der schlafende Riese 🌋",
+    "hashtags": ["waswärewenn", "vulkan", "yellowstone", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "asteroid-ozean",
+    "title": "Was passiert, wenn ein Asteroid in den Ozean stürzt?",
+    "scenes": [
+      {"text": "Was passiert, wenn ein ein Kilometer großer Asteroid in den Atlantik stürzt?", "prompt": "giant asteroid entering atmosphere above the ocean, fiery trail"},
+      {"text": "Beim Aufprall verdampft das Wasser schlagartig. Eine kilometerhohe Wassersäule schießt in den Himmel.", "prompt": "massive water column explosion from asteroid impact in ocean"},
+      {"text": "Ein Mega-Tsunami breitet sich in alle Richtungen aus, mit der Geschwindigkeit eines Flugzeugs.", "prompt": "enormous tsunami wave racing across the ocean"},
+      {"text": "Nach wenigen Stunden erreichen hohe Wellen die Küsten von Europa und Amerika.", "prompt": "huge wave approaching a coastal European city"},
+      {"text": "Wasserdampf und Staub verändern für Monate das Wetter auf der ganzen Welt.", "prompt": "stormy dark skies over the world, heavy rain"},
+      {"text": "Deshalb beobachten Weltraumagenturen den Himmel ständig. Wusstest du das?", "prompt": "observatory telescope at night scanning the stars"}
+    ],
+    "caption": "Einschlag im Atlantik ☄️🌊",
+    "hashtags": ["waswärewenn", "asteroid", "weltraum", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "menschen-weg",
+    "title": "Was passiert, wenn alle Menschen verschwinden?",
+    "scenes": [
+      {"text": "Was passiert mit der Erde, wenn alle Menschen plötzlich verschwinden?", "prompt": "empty city streets with no people, abandoned cars"},
+      {"text": "Schon nach wenigen Stunden gehen in vielen Städten die Lichter aus, weil Kraftwerke niemand mehr steuert.", "prompt": "city skyline going dark at night"},
+      {"text": "Nach einigen Jahren erobern Pflanzen die Straßen. Wildtiere ziehen in die Städte.", "prompt": "deer and wolves walking through overgrown city streets"},
+      {"text": "Nach hundert Jahren stürzen viele Brücken und Hochhäuser ein, weil ihr Stahl rostet.", "prompt": "collapsed overgrown skyscrapers covered in vines"},
+      {"text": "Nach tausend Jahren sind die meisten Städte unter Wäldern verschwunden.", "prompt": "dense forest with ancient ruins of a city barely visible"},
+      {"text": "Die Natur würde sich alles zurückholen. Faszinierend und gruselig zugleich, oder?", "prompt": "lush nature reclaiming the Eiffel tower ruins"}
+    ],
+    "caption": "Die Erde ohne uns 🌿",
+    "hashtags": ["waswärewenn", "natur", "simulation", "wissen", "fyp", "lernenmittiktok"]
+  },
+  {
+    "id": "all-ohne-anzug",
+    "title": "Was passiert, wenn du ohne Anzug ins All gehst?",
+    "scenes": [
+      {"text": "Was passiert, wenn du ohne Raumanzug ins Weltall gehst?", "prompt": "person without spacesuit floating in space near a space station"},
+      {"text": "Nein, du explodierst nicht. Das ist ein Mythos aus Filmen.", "prompt": "movie scene style astronaut, myth busted concept"},
+      {"text": "Aber die Luft in deiner Lunge muss sofort raus. Hältst du den Atem an, kann deine Lunge reißen.", "prompt": "medical visualization of lungs in vacuum, glowing"},
+      {"text": "Nach etwa fünfzehn Sekunden wirst du bewusstlos, weil dein Gehirn keinen Sauerstoff mehr bekommt.", "prompt": "astronaut floating unconscious in space, earth in background"},
+      {"text": "Dein Körper schwillt an, weil das Wasser in deinem Gewebe zu verdampfen beginnt.", "prompt": "scientific illustration of a body swelling in vacuum"},
+      {"text": "Wirst du innerhalb von etwa einer Minute gerettet, kannst du sogar überleben. Hättest du das gedacht?", "prompt": "astronauts rescuing a person into an airlock"}
+    ],
+    "caption": "Explodiert man im Weltall? 👨‍🚀",
+    "hashtags": ["waswärewenn", "weltall", "astronaut", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "loch-durch-erde",
+    "title": "Was passiert, wenn du durch die Erde springst?",
+    "scenes": [
+      {"text": "Was passiert, wenn du in ein Loch springst, das einmal quer durch die Erde geht?", "prompt": "person jumping into a deep tunnel through the planet Earth, cross-section"},
+      {"text": "Zuerst beschleunigst du immer weiter. In der Mitte der Erde erreichst du fast 28.000 Kilometer pro Stunde.", "prompt": "person falling through a glowing tunnel at incredible speed"},
+      {"text": "Ohne Hitzeschutz würdest du verbrennen. Im Erdkern ist es so heiß wie auf der Oberfläche der Sonne.", "prompt": "glowing earth core cross-section, extreme heat"},
+      {"text": "Ohne Luftwiderstand würdest du nach etwa 42 Minuten auf der anderen Seite der Welt ankommen.", "prompt": "person emerging from a hole on the other side of the world"},
+      {"text": "Doch dann fällst du wieder zurück. Hin und her, für immer, wie ein Pendel.", "prompt": "pendulum motion through earth tunnel, diagram style 3D"},
+      {"text": "42 Minuten nach Australien. Wohin würdest du springen?", "prompt": "globe showing Germany and opposite side of the world"}
+    ],
+    "caption": "In 42 Minuten auf die andere Seite 🌏",
+    "hashtags": ["waswärewenn", "physik", "erde", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "eis-schmilzt",
+    "title": "Was passiert, wenn alles Eis der Erde schmilzt?",
+    "scenes": [
+      {"text": "Was passiert, wenn das ganze Eis auf der Erde schmilzt?", "prompt": "Antarctica ice sheet melting, massive waterfalls of meltwater"},
+      {"text": "Der Meeresspiegel würde um rund 70 Meter steigen. Das ist so hoch wie ein zwanzigstöckiges Haus.", "prompt": "flooded city with water up to the top of tall buildings"},
+      {"text": "In Deutschland wären Hamburg, Bremen und große Teile Norddeutschlands unter Wasser.", "prompt": "flooded northern German city with historic buildings under water"},
+      {"text": "Die Niederlande würden fast vollständig verschwinden. Auch Venedig gäbe es nicht mehr.", "prompt": "Venice completely submerged under the sea"},
+      {"text": "Milliarden Menschen müssten umziehen. Die Weltkarte würde völlig anders aussehen.", "prompt": "new world map with shrunken continents, glowing hologram"},
+      {"text": "Bis das passiert, würde es aber Tausende Jahre dauern. Wo würdest du dann wohnen?", "prompt": "mountain town above a new coastline at sunset"}
+    ],
+    "caption": "70 Meter mehr Meer 🌊",
+    "hashtags": ["waswärewenn", "klima", "simulation", "wissen", "fyp", "deutschland"]
+  },
+  {
+    "id": "jupiter",
+    "title": "Was passiert, wenn du auf dem Jupiter landen willst?",
+    "scenes": [
+      {"text": "Was passiert, wenn du versuchst, auf dem Jupiter zu landen?", "prompt": "spaceship approaching giant planet Jupiter with storms"},
+      {"text": "Das Problem: Jupiter hat gar keine feste Oberfläche. Er besteht fast nur aus Gas.", "prompt": "spaceship sinking into swirling gas clouds of Jupiter"},
+      {"text": "Je tiefer du sinkst, desto dunkler wird es. Stürme toben mit über 600 Kilometern pro Stunde.", "prompt": "violent storms and lightning inside Jupiter atmosphere"},
+      {"text": "Der Druck steigt so stark, dass dein Raumschiff zerquetscht wird wie eine Getränkedose.", "prompt": "spacecraft being crushed by extreme pressure"},
+      {"text": "Noch tiefer wird Wasserstoff sogar zu einer Art flüssigem Metall.", "prompt": "ocean of liquid metallic hydrogen glowing deep inside planet"},
+      {"text": "Landen ist also unmöglich. Welchen Planeten soll ich als Nächstes besuchen?", "prompt": "solar system planets lined up, cinematic"}
+    ],
+    "caption": "Landen? Unmöglich. 🪐",
+    "hashtags": ["waswärewenn", "jupiter", "weltraum", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "blitz-flugzeug",
+    "title": "Was passiert, wenn ein Blitz ins Flugzeug einschlägt?",
+    "scenes": [
+      {"text": "Was passiert, wenn ein Blitz in dein Flugzeug einschlägt?", "prompt": "lightning bolt striking a passenger airplane in storm clouds"},
+      {"text": "Das passiert öfter, als du denkst. Jedes Verkehrsflugzeug wird im Schnitt etwa einmal im Jahr getroffen.", "prompt": "airplane flying through thunderstorm, multiple lightning strikes"},
+      {"text": "Der Strom fließt über die metallische Außenhaut einfach um die Kabine herum.", "prompt": "electric current flowing over airplane surface, glowing visualization"},
+      {"text": "Das nennt man Faradayscher Käfig. Drinnen bist du sicher.", "prompt": "cutaway airplane cabin with calm passengers, electric cage glow"},
+      {"text": "Meistens hört man nur einen lauten Knall und sieht einen hellen Blitz.", "prompt": "view from airplane window, bright flash of lightning"},
+      {"text": "Danach wird das Flugzeug am Boden kontrolliert. Wusstest du das schon?", "prompt": "technicians inspecting airplane on the tarmac"}
+    ],
+    "caption": "Blitzeinschlag im Flug ⚡✈️",
+    "hashtags": ["waswärewenn", "flugzeug", "blitz", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "venus-tag",
+    "title": "Was passiert, wenn du einen Tag auf der Venus verbringst?",
+    "scenes": [
+      {"text": "Was passiert, wenn du einen Tag auf der Venus verbringen willst?", "prompt": "astronaut standing on volcanic orange surface of Venus"},
+      {"text": "Ein Tag auf der Venus dauert länger als ein Venusjahr. Sie dreht sich extrem langsam.", "prompt": "Venus rotating slowly next to the sun, orbit diagram 3D"},
+      {"text": "An der Oberfläche ist es rund 465 Grad heiß. Heiß genug, um Blei zu schmelzen.", "prompt": "molten lead glowing on scorched Venus rocks"},
+      {"text": "Der Luftdruck ist neunzig Mal höher als auf der Erde. Als wärst du tausend Meter tief im Meer.", "prompt": "crushed metal probe on Venus surface"},
+      {"text": "Und aus den Wolken regnet es Schwefelsäure.", "prompt": "yellow sulfuric acid clouds raining over Venus"},
+      {"text": "Die längste Mission auf der Venus hielt nur etwa zwei Stunden durch. Würdest du hin?", "prompt": "Soviet style venus lander probe on hostile surface"}
+    ],
+    "caption": "Die Hölle in unserem Sonnensystem 🔥",
+    "hashtags": ["waswärewenn", "venus", "weltraum", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "stromausfall-de",
+    "title": "Was passiert, wenn in Deutschland 2 Wochen der Strom ausfällt?",
+    "scenes": [
+      {"text": "Was passiert, wenn in ganz Deutschland zwei Wochen lang der Strom ausfällt?", "prompt": "Germany map at night completely dark, blackout"},
+      {"text": "Tag eins: Ampeln, Züge und Aufzüge stehen still. Das Handynetz bricht nach wenigen Stunden zusammen.", "prompt": "German city traffic chaos with dark traffic lights"},
+      {"text": "Tag drei: In vielen Häusern kommt kein Wasser mehr aus der Leitung, weil die Pumpen nicht laufen.", "prompt": "dry water tap in a dark kitchen"},
+      {"text": "Supermärkte bleiben geschlossen. Tiefkühlware taut auf, Bargeld wird knapp.", "prompt": "closed German supermarket at night, people outside"},
+      {"text": "Nach einer Woche helfen sich Nachbarn gegenseitig. Notstromaggregate werden Gold wert.", "prompt": "neighbors sharing a generator and candles in a street"},
+      {"text": "Experten raten, Vorräte für zehn Tage zu Hause zu haben. Hast du welche?", "prompt": "emergency supplies on a shelf, water bottles, flashlight"}
+    ],
+    "caption": "Blackout in Deutschland 🔌",
+    "hashtags": ["waswärewenn", "blackout", "deutschland", "simulation", "fyp", "wissen"]
+  },
+  {
+    "id": "aufzug-absturz",
+    "title": "Was passiert, wenn ein Aufzug abstürzt?",
+    "scenes": [
+      {"text": "Was passiert, wenn in einem Aufzug plötzlich die Seile reißen?", "prompt": "elevator cabin in shaft with snapping steel cables"},
+      {"text": "Die gute Nachricht: Moderne Aufzüge hängen an mehreren Seilen. Jedes allein könnte die Kabine halten.", "prompt": "multiple steel cables holding elevator, technical 3D render"},
+      {"text": "Und selbst wenn alle reißen, greift eine Fangvorrichtung, die die Kabine an den Schienen festklemmt.", "prompt": "elevator safety brake clamping onto rails, sparks"},
+      {"text": "Ganz unten wartet außerdem ein Puffer, der den Aufprall abfedert.", "prompt": "elevator pit with large hydraulic buffers"},
+      {"text": "Springen kurz vor dem Aufprall hilft übrigens nicht. Du fällst genauso schnell wie die Kabine.", "prompt": "person jumping inside falling elevator, physics concept"},
+      {"text": "Aufzüge gehören zu den sichersten Verkehrsmitteln überhaupt. Hättest du das gedacht?", "prompt": "modern glass elevator in a skyscraper lobby"}
+    ],
+    "caption": "Hilft Springen im Aufzug? 🛗",
+    "hashtags": ["waswärewenn", "aufzug", "physik", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "erde-doppelt",
+    "title": "Was passiert, wenn die Erde doppelt so groß wäre?",
+    "scenes": [
+      {"text": "Was passiert, wenn die Erde plötzlich doppelt so groß wäre?", "prompt": "two Earths side by side, one twice as large"},
+      {"text": "Die Schwerkraft wäre ungefähr doppelt so stark. Jeder Schritt würde sich anfühlen wie mit einem schweren Rucksack.", "prompt": "people struggling to walk under heavy gravity"},
+      {"text": "Bäume würden kleiner und dicker wachsen. Hohe Gebäude würden leichter einstürzen.", "prompt": "short thick trees and squat buildings, alien landscape"},
+      {"text": "Die Atmosphäre wäre dichter. Das Wetter würde stürmischer und feuchter.", "prompt": "heavy dense storm clouds over a super earth"},
+      {"text": "Raketen bräuchten viel mehr Treibstoff, um ins All zu kommen. Raumfahrt wäre fast unmöglich.", "prompt": "giant rocket struggling to lift off, massive engines"},
+      {"text": "Wir wären wohl kleiner und kräftiger gebaut. Wie würdest du aussehen?", "prompt": "stocky muscular futuristic humans on heavy planet"}
+    ],
+    "caption": "Doppelte Erde, doppelte Schwerkraft 🌍🌍",
+    "hashtags": ["waswärewenn", "erde", "physik", "simulation", "fyp", "wissen"]
+  },
+  {
+    "id": "keine-bienen",
+    "title": "Was passiert, wenn alle Bienen aussterben?",
+    "scenes": [
+      {"text": "Was passiert, wenn alle Bienen auf der Welt aussterben?", "prompt": "empty honeycomb, last bee on a flower"},
+      {"text": "Bienen bestäuben einen großen Teil unserer Nutzpflanzen. Ohne sie tragen viele keine Früchte mehr.", "prompt": "fruit trees with flowers but no fruit, barren orchard"},
+      {"text": "Äpfel, Kirschen, Mandeln und Erdbeeren würden selten und extrem teuer.", "prompt": "supermarket fruit section with very few expensive fruits"},
+      {"text": "Auch viele Wildpflanzen verschwinden, und mit ihnen Tiere, die davon leben.", "prompt": "withered meadow with no flowers, sad landscape"},
+      {"text": "Menschen müssten Blüten von Hand bestäuben. In manchen Regionen passiert das schon heute.", "prompt": "farm workers pollinating blossoms with brushes by hand"},
+      {"text": "Kleine Tiere, riesige Wirkung. Was tust du für Bienen?", "prompt": "bees on colorful wildflowers in sunlight"}
+    ],
+    "caption": "Eine Welt ohne Bienen 🐝",
+    "hashtags": ["waswärewenn", "bienen", "natur", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "magnetfeld-weg",
+    "title": "Was passiert, wenn das Erdmagnetfeld verschwindet?",
+    "scenes": [
+      {"text": "Was passiert, wenn das Magnetfeld der Erde plötzlich verschwindet?", "prompt": "Earth's magnetic field lines fading away, space visualization"},
+      {"text": "Das Magnetfeld schützt uns wie ein unsichtbarer Schild vor dem Sonnenwind.", "prompt": "invisible blue shield around Earth deflecting solar wind"},
+      {"text": "Ohne ihn würden Satelliten ausfallen. GPS und Kommunikation brechen zusammen.", "prompt": "satellites malfunctioning and sparking in orbit"},
+      {"text": "Zugvögel, Schildkröten und Wale könnten sich nicht mehr orientieren.", "prompt": "confused flock of migrating birds in the sky"},
+      {"text": "Über Jahrmillionen würde der Sonnenwind sogar unsere Atmosphäre abtragen, so wie beim Mars.", "prompt": "Earth losing its atmosphere into space, comparison with Mars"},
+      {"text": "Ein unsichtbarer Schutz, ohne den Leben schwer wäre. Wusstest du das?", "prompt": "aurora borealis over snowy mountains"}
+    ],
+    "caption": "Unser unsichtbarer Schutzschild 🧲",
+    "hashtags": ["waswärewenn", "erde", "weltraum", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "neutronenstern",
+    "title": "Was passiert, wenn ein Teelöffel Neutronenstern auf die Erde fällt?",
+    "scenes": [
+      {"text": "Was passiert, wenn ein Teelöffel Neutronenstern auf die Erde fällt?", "prompt": "tiny glowing sphere of neutron star matter on a teaspoon"},
+      {"text": "Neutronensterne sind so dicht, dass ein Teelöffel davon Milliarden Tonnen wiegen würde.", "prompt": "teaspoon outweighing mountains on a giant scale"},
+      {"text": "Ohne die Schwerkraft des Sterns würde das Material sofort mit gewaltiger Energie explodieren.", "prompt": "enormous bright explosion on Earth's surface"},
+      {"text": "Bliebe es zusammen, würde es durch den Boden sinken wie ein Stein durch Wasser.", "prompt": "glowing tiny object sinking through rock layers"},
+      {"text": "Es würde bis zum Erdkern fallen und dort hin und her pendeln.", "prompt": "earth cross section with tiny glowing object at the core"},
+      {"text": "Das dichteste Material des Universums. Unglaublich, oder?", "prompt": "neutron star spinning in space with magnetic beams"}
+    ],
+    "caption": "Milliarden Tonnen in einem Löffel 🥄",
+    "hashtags": ["waswärewenn", "neutronenstern", "weltraum", "physik", "fyp", "simulation"]
+  },
+  {
+    "id": "mars-ohne-schutz",
+    "title": "Was passiert, wenn du ohne Schutz auf dem Mars stehst?",
+    "scenes": [
+      {"text": "Was passiert, wenn du ohne Raumanzug auf dem Mars stehst?", "prompt": "person in normal clothes standing on red Mars surface"},
+      {"text": "Die Luft ist hundertmal dünner als auf der Erde und besteht fast nur aus Kohlendioxid.", "prompt": "thin dusty Martian atmosphere, red haze"},
+      {"text": "Bei so niedrigem Druck fängt die Feuchtigkeit in deinen Augen und auf der Zunge an zu kochen.", "prompt": "scientific visualization of water boiling at low pressure"},
+      {"text": "Nachts fallen die Temperaturen auf minus 80 Grad.", "prompt": "frozen Martian night landscape with frost"},
+      {"text": "Und es gibt kaum Schutz vor Strahlung, weil der Mars kein starkes Magnetfeld hat.", "prompt": "cosmic radiation hitting Mars surface, glowing particles"},
+      {"text": "Du hättest nur etwa eine Minute. Würdest du trotzdem zum Mars fliegen?", "prompt": "futuristic Mars colony domes at sunset"}
+    ],
+    "caption": "Eine Minute auf dem Mars 🔴",
+    "hashtags": ["waswärewenn", "mars", "weltraum", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "flugzeug-fenster",
+    "title": "Was passiert, wenn im Flugzeug ein Fenster zerbricht?",
+    "scenes": [
+      {"text": "Was passiert, wenn in zehn Kilometern Höhe ein Flugzeugfenster zerbricht?", "prompt": "airplane window shattering at high altitude"},
+      {"text": "Die Luft in der Kabine strömt schlagartig nach draußen. Lose Gegenstände fliegen durch den Raum.", "prompt": "papers and objects flying in airplane cabin decompression"},
+      {"text": "Sofort fallen die Sauerstoffmasken herunter. Du hast nur wenige Sekunden, um sie aufzusetzen.", "prompt": "oxygen masks dropping in airplane cabin"},
+      {"text": "Darum gilt: Erst die eigene Maske aufsetzen, dann anderen helfen.", "prompt": "passenger putting on oxygen mask then helping a child"},
+      {"text": "Die Piloten gehen sofort in den Sinkflug auf etwa drei Kilometer, wo man wieder normal atmen kann.", "prompt": "airplane descending steeply through clouds"},
+      {"text": "Das passiert extrem selten, und meistens gehen solche Fälle glimpflich aus. Wusstest du das?", "prompt": "airplane landing safely at sunset"}
+    ],
+    "caption": "Druckabfall in 10 km Höhe ✈️",
+    "hashtags": ["waswärewenn", "flugzeug", "wissen", "fyp", "simulation", "reisen"]
+  },
+  {
+    "id": "sonnensturm",
+    "title": "Was passiert, wenn ein riesiger Sonnensturm die Erde trifft?",
+    "scenes": [
+      {"text": "Was passiert, wenn ein gewaltiger Sonnensturm die Erde trifft?", "prompt": "massive solar flare erupting toward Earth"},
+      {"text": "1859 gab es so einen Sturm schon einmal. Damals fingen Telegrafenleitungen Feuer.", "prompt": "19th century telegraph office with sparking wires"},
+      {"text": "Polarlichter waren damals sogar in der Karibik zu sehen.", "prompt": "aurora borealis over a tropical beach with palm trees"},
+      {"text": "Heute wäre das viel gefährlicher. Stromnetze, Satelliten und das Internet könnten ausfallen.", "prompt": "power transformers exploding, city blackout"},
+      {"text": "Die Reparatur großer Transformatoren könnte Monate dauern.", "prompt": "engineers repairing huge power transformer"},
+      {"text": "Darum überwachen Forscher die Sonne rund um die Uhr. Hast du schon mal Polarlichter gesehen?", "prompt": "solar observatory satellite watching the sun"}
+    ],
+    "caption": "Der Sturm von 1859 könnte wiederkommen ☀️⚡",
+    "hashtags": ["waswärewenn", "sonne", "polarlicht", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "erde-ringe",
+    "title": "Was passiert, wenn die Erde Ringe wie Saturn hätte?",
+    "scenes": [
+      {"text": "Was wäre, wenn die Erde Ringe hätte, so wie der Saturn?", "prompt": "Earth with spectacular Saturn-like rings seen from space"},
+      {"text": "Von Deutschland aus würdest du einen riesigen Bogen quer über den Himmel sehen.", "prompt": "German landscape with giant planetary ring arc in the sky"},
+      {"text": "Nachts würden die Ringe hell im Sonnenlicht leuchten. Es wäre nie ganz dunkel.", "prompt": "night sky illuminated by bright planetary rings"},
+      {"text": "Unter den Ringen läge ein breiter Schattenstreifen. Dort wären die Winter viel kälter.", "prompt": "shadow of rings over snowy region, dramatic"},
+      {"text": "Raketenstarts wären schwieriger, weil Gesteinsbrocken in den Ringen kreisen.", "prompt": "rocket launching with rocky rings in the background"},
+      {"text": "Wunderschön, aber kompliziert. Hättest du gerne Ringe am Himmel?", "prompt": "person on a hill looking at rings across a sunset sky"}
+    ],
+    "caption": "Wenn die Erde Ringe hätte 🪐",
+    "hashtags": ["waswärewenn", "erde", "saturn", "weltraum", "fyp", "simulation"]
+  },
+  {
+    "id": "riesenameisen",
+    "title": "Was passiert, wenn Ameisen so groß wären wie Menschen?",
+    "scenes": [
+      {"text": "Was passiert, wenn Ameisen plötzlich so groß wären wie Menschen?", "prompt": "giant human-sized ant standing in a city street"},
+      {"text": "Die gute Nachricht: Sie könnten nicht lange überleben.", "prompt": "giant ant collapsing, struggling"},
+      {"text": "Ameisen atmen über kleine Röhrchen in ihrem Körper. Bei dieser Größe käme kaum Sauerstoff an.", "prompt": "anatomical 3D render of ant breathing tubes, tracheae"},
+      {"text": "Ihr Panzer würde unter dem eigenen Gewicht nachgeben, und die Beine wären viel zu dünn.", "prompt": "giant ant with cracking exoskeleton and buckling legs"},
+      {"text": "Darum können Insekten nur klein sein. Die Physik setzt ihnen Grenzen.", "prompt": "comparison of tiny ant and human scale, scientific"},
+      {"text": "Vor Millionen Jahren gab es aber riesige Libellen, weil mehr Sauerstoff in der Luft war. Krass, oder?", "prompt": "prehistoric giant dragonfly flying over a swamp"}
+    ],
+    "caption": "Riesenameisen? Physik sagt nein 🐜",
+    "hashtags": ["waswärewenn", "ameisen", "biologie", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "lichtgeschwindigkeit",
+    "title": "Was passiert, wenn du mit Lichtgeschwindigkeit reist?",
+    "scenes": [
+      {"text": "Was passiert, wenn du fast mit Lichtgeschwindigkeit durchs All reist?", "prompt": "spaceship travelling near light speed, stars streaking"},
+      {"text": "Je schneller du fliegst, desto langsamer vergeht für dich die Zeit.", "prompt": "clock slowing down inside spaceship, time dilation concept"},
+      {"text": "Fliegst du ein Jahr lang mit fast Lichtgeschwindigkeit, können auf der Erde Jahrzehnte vergehen.", "prompt": "astronaut returning to a futuristic changed Earth"},
+      {"text": "Die Sterne vor dir würden sich zusammendrängen und bläulich leuchten.", "prompt": "blue shifted stars clustered in front of a spaceship"},
+      {"text": "Selbst einzelne Staubkörner würden bei diesem Tempo einschlagen wie Bomben.", "prompt": "dust particle impact explosion on spaceship shield"},
+      {"text": "Du würdest in die Zukunft reisen. Wohin würdest du fliegen?", "prompt": "spaceship heading toward a distant galaxy"}
+    ],
+    "caption": "Zeitreise in die Zukunft 🚀",
+    "hashtags": ["waswärewenn", "physik", "weltraum", "zeitreise", "fyp", "simulation"]
+  },
+  {
+    "id": "nie-schlafen",
+    "title": "Was passiert, wenn du 11 Tage nicht schläfst?",
+    "scenes": [
+      {"text": "Was passiert mit deinem Körper, wenn du elf Tage lang nicht schläfst?", "prompt": "exhausted young man with red eyes at night, clock on wall"},
+      {"text": "1964 hat ein Schüler namens Randy Gardner genau das getestet, für ein Schulprojekt.", "prompt": "1960s american student room, vintage style"},
+      {"text": "Schon nach zwei Tagen konnte er sich kaum konzentrieren und vergaß ständig Dinge.", "prompt": "blurred vision of a person struggling to focus"},
+      {"text": "Ab Tag vier hatte er Halluzinationen. Er hielt ein Straßenschild für einen Menschen.", "prompt": "surreal hallucination of a street sign looking like a person"},
+      {"text": "Am Ende sprach er langsam und konnte einfache Rechenaufgaben nicht mehr lösen.", "prompt": "confused person looking at simple math on a chalkboard"},
+      {"text": "Danach schlief er vierzehn Stunden am Stück. Bitte nicht nachmachen! Wie lange warst du schon wach?", "prompt": "person sleeping peacefully in bed, morning sunlight"}
+    ],
+    "caption": "11 Tage wach. Ein echtes Experiment 😴",
+    "hashtags": ["waswärewenn", "schlaf", "körper", "wissen", "fyp", "simulation"]
+  },
+  {
+    "id": "marianengraben",
+    "title": "Was passiert, wenn du in den Marianengraben tauchst?",
+    "scenes": [
+      {"text": "Was passiert, wenn du bis zum tiefsten Punkt der Erde tauchst, in den Marianengraben?", "prompt": "deep sea submarine descending into the dark ocean trench"},
+      {"text": "Nach zweihundert Metern wird es dunkel. Ab tausend Metern herrscht völlige Finsternis.", "prompt": "deep ocean darkness with faint light rays fading"},
+      {"text": "Hier leben Tiere, die ihr eigenes Licht erzeugen, wie der Anglerfisch.", "prompt": "bioluminescent anglerfish glowing in the deep sea"},
+      {"text": "In elf Kilometern Tiefe drückt das Wasser mit über tausend Bar. Als würden hundert Elefanten auf deinem Daumen stehen.", "prompt": "elephants stacked on a thumb, pressure concept, 3D surreal"},
+      {"text": "Ohne extrem stabiles U-Boot würdest du sofort zerquetscht.", "prompt": "titanium deep sea submersible at the bottom of the trench"},
+      {"text": "Bis heute waren nur wenige Dutzend Menschen ganz unten. Würdest du runtertauchen?", "prompt": "astronaut and deep sea explorer side by side, comparison"}
+    ],
+    "caption": "11 Kilometer unter dem Meer 🌊",
+    "hashtags": ["waswärewenn", "ozean", "tiefsee", "wissen", "fyp", "simulation"]
+  }
+]
